@@ -2,8 +2,14 @@ function shout(text) {
   
 }
 
-whisper
+function whisper(text) {
+  
+}
 
-logshout
+function logShout(text) {
+  
+}
 
-logwhisper
+function logWhisper(text) {
+  
+}
