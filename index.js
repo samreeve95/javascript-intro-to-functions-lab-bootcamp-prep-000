@@ -1,4 +1,4 @@
-function shout(string text) {
+function shout(text) {
   
 }
 
